@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 0847d6a9dddfb5c4b9c9e17f0891063f
-timeCreated: 1525883365
-licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: body
     100002: chest
@@ -200,17 +198,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: cloth
-    second: {fileID: 2100000, guid: e52c8130922ff4a4986ad39436c62e0d, type: 2}
+    second: {fileID: 2100000, guid: a6f1e924694118444a817756c99a7f45, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: knight
-    second: {fileID: 2100000, guid: f20eb926e0a1c8144bcc90e780aedcf5, type: 2}
+    second: {fileID: 2100000, guid: 20261fabc7e6994438719a6a01941dd3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: weapons
-    second: {fileID: 2100000, guid: be083289fb803364eaf6485625c7ed8c, type: 2}
+    second: {fileID: 2100000, guid: 4e7a47e89e1cdef4b981b7a173ae254b, type: 2}
   materials:
     importMaterials: 1
     materialName: 1
@@ -229,6 +227,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -240,7 +239,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 1.5
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
@@ -260,6 +259,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
